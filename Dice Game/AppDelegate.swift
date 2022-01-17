@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Dice Game
 //
-//  Created by upstox on 17/01/22.
+//  Created by upstox on 15/01/22.
 //
 
 import UIKit
